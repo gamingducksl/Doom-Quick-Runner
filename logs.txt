@@ -1,0 +1,4 @@
+[0m
+Welcome to the Doom quick-runner. Please set your parameters below.
+[1m
+[34mPlease enter source port (example: crispy-doom) Please enter path to iwad Please enter path to pwad (if applicable) Please enter path to demo (if applicable) [0m
