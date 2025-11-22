@@ -3,6 +3,8 @@ Doom Quick Runner:
 This is a program made for launching Doom (duh). I mainly created this to launch Demo files easier.
 The program was tested using Linux Mint, so it probably won't work on Windows.
 
+Tested source-ports: Crispy Doom and Chocolate Doom
+
 Usage:
 
 Run the "start.sh" file (make sure to run it in terminal).
