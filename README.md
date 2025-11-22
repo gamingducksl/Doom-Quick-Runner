@@ -14,3 +14,5 @@ Input your source port of choice (example: crispy-doom). This will use whichever
 Input your iwad, pwad, and demo file paths (these are all optional, though, if no iwad is specified then it will use the default iwad.).
 
 Run!
+
+<img width="544" height="187" alt="image" src="https://github.com/user-attachments/assets/4c11791a-0fc4-4a41-bab7-7e10304c7d9f" />
