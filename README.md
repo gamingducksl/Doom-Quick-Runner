@@ -1,6 +1,6 @@
 Doom Quick Runner:
 
-This is a program made for launching Doom (duh). I mainly created this to launch Demo files easier.
+This is a Python program made for launching Doom (duh). I mainly created this to launch Demo files easier.
 The program was tested using Linux Mint, so it probably won't work on Windows.
 
 Usage:
